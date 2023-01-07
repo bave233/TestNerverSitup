@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Kingfisher (7.4.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Nimble (9.0.1)
+  - ProgressHUD (13.6.2)
+  - Quick (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 7.0)
+  - Moya
+  - Nimble (= 9.0.1)
+  - ProgressHUD
+  - Quick (= 4.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Moya
+    - Nimble
+    - ProgressHUD
+    - Quick
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Kingfisher: cd762a593a61b2fbecf7645c00f9a801a3ebfc9c
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Nimble: 7bed62ffabd6dbfe05f5925cbc43722533248990
+  ProgressHUD: 355915c8f033e626788fa9b0d99d06e8691595ab
+  Quick: 6473349e43b9271a8d43839d9ba1c442ed1b7ac4
+
+PODFILE CHECKSUM: 4ed956196442a6f064d6a4677d450e6bc227b8ba
+
+COCOAPODS: 1.11.3
